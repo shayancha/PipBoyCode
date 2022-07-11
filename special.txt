@@ -1,0 +1,7 @@
+Strength is the measure of your raw physical power. It affects how much you can carry, and determines the effectiveness of all melee attacks.
+A high Perception grants a bonus to the Explosives, Lockpick and Energy Weapons skills, and determiens when red compass markings appear (which indicate threats).
+Endurance is a measure of your overall physical fitness. A high Endurance gives bonuses to health, environmental resistances, and the Big Guns and Unarmed skills.
+Having a high Charisma will improve people's disposition toward you, and give Bonuses to both the Barter and Speech skills.
+Intelligence affects the Science, Repair and Medicine skills. The higher your Intelligence, the more Skill Points you'll be able to distribute when you level up.
+Agility is a measure of your overall finess and reflexes. It affects the number of Action Points in V.A.T.S. and your ability to sneak.
+Luck is measure of your general good fortune, and affects the recharge rate of Critical Hits.

@@ -1,0 +1,13 @@
+Trading and trade-related tasks. The ability to get better prices for items you sell, and lower prices for items you buy.
+The Big Gun skill determines your combat effectiveness with all oversized weapons such as the Fat Man, Missile Launcher, Flamer, Minigun and Gatling Laser.
+The Energy Weapons skill determines your effectiveness with weapons such as the laser pistol, laser rifle, plasma rifle and plasma pistol.
+The Explosives skill determines the power of any set mines, the ease of disarming any hostile mines, and the effectiveness of any thrown grenades.
+The Lockpick skill is used to open locked doors and containers.
+The Medicine skill determines how many Hit Points you'll replenish upon using a Stimpak, and the effectiveness of Rad-X and RadAway.
+The Melee Weapons skill determines your effectiveness with melee weapons, from the simple lead pipe all the way up to the high-tech super sledge.
+The Repair skill allows you to maintain any weapons and apparel. In addition, the higher your Repair skill, the better the starting condition of any custom-made weapons.
+The Science skill represents your combined scientific knowledge, and is primarily used to hack restricted computer terminals.
+Small Guns determines your effectiveness with all conventional projectiles weapons, such as the 10mm pistol, BB Gun, Assault Rifle, and Combat Shotgun.
+The higher your Sneak skill, the easier it is to remain undetected, steal an item, or pick someone's pocket. Successfully attacking while undetected grants a guaranteed critical attack.
+The Speech skills governs how much you can influence someone through dialogue, and gain access to information they might otherwise not want to share.
+The Unarmed skill is used for fighting without a weapon, or with the few weapons specifically designed for hand-to-hand combat, like Brass Knuckles or the
